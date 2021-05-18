@@ -191,6 +191,10 @@ html {
   letter-spacing: 0.1rem;
 }
 
+.img-fluid{
+ margin-right: 10px;
+}
+
 a{
   color: #141414;
   font-family: 'Times New Roman', Times, serif;
